@@ -1,0 +1,128 @@
+body {
+  background: #f2f2f2;
+}
+.navbar {
+  background: #373f68;
+
+  width: 100%;
+  min-height: 70px;
+  float: left;
+
+  border-radius: 10px;
+}
+
+.jost {
+  font-family: "Jost";
+  font-weight: 700px;
+  font-size: 20px;
+}
+.iconka {
+  color: #ffffff;
+}
+.logo {
+  width: 20%;
+  min-height: 70px;
+  float: left;
+  padding-left: 30px;
+  box-sizing: border-box;
+  padding-top: 10px;
+}
+.menu {
+  width: 80%;
+  min-height: 85px;
+  float: left;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  padding-right: 30px;
+}
+.menu .btn {
+  background: #ad1fea;
+  border-radius: 8px;
+  color: white;
+}
+.center {
+  width: 100%;
+  min-height: 500px;
+  float: left;
+  box-sizing: border-box;
+}
+.block1 {
+    position: relative;
+  width: 100%;
+  height: 300px;
+  float: left;
+  margin-top: 20px;
+  background-color: white;
+  border-top: 10px solid #f49f85;
+  border-radius: 5px 5px 0px 0px;
+  font-family: "Jost";
+  box-sizing: border-box;
+  padding-left: 15px;
+}
+.caret {
+  rotate: 180deg;
+  color: #4661e6;
+}
+.leftfoot {
+  position: relative;
+  width: 100%;
+  height: 112px;
+  float: left;
+}
+.leftfoot .btn1 {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 19px;
+
+  color: #4661e6;
+  background: #f2f4ff;
+  border-radius: 10px;
+}
+.leftfoot .btn2 {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 19px;
+  margin-top: 10px;
+  text-align: center;
+
+  color: #3a4374;
+  background: #f2f4fe;
+  border-radius: 10px;
+}
+.word p span {
+  color: #f49f85;
+}
+.word p {
+  margin-top: 20px;
+}
+
+.rightfoot {
+  position: absolute;
+  right: 60px;
+  bottom: 70px;
+  width: 18px;
+  height: 16px;
+  float: left;
+  color: #cdd2ee;
+
+  font-size: 20px;
+}
+.vtoroy{
+    border-top: 10px solid #AD1FEA;
+}
+.tretiy{
+    border-top: 10px solid #62BCFA;
+}
+.he p span{
+    color: #62BCFA;
+}
+
+.ge p span{
+    color: #AD1FEA;
+    
+}
